@@ -14,3 +14,6 @@
 Markah mentah: simulator 9, kuiz 21, pemerhatian objektif 5, jawapan bertulis 15 = 50 markah. Peratus dikira daripada markah mentah / 50 × 100. Julat gred mengikut carta yang diberi: 0–19 F; 20–34 B; 35–49 D; 50–65 C; 66–81 B; 82–100 A.
 
 Jawapan bertulis ditaksir secara automatik menggunakan kata kunci dan sesuai disemak guru. Data tidak dihantar ke pelayan; sesi disimpan pada halaman semasa sahaja.
+
+
+Versi terkini: tab “Bina Litar” berasingan dibuang; tiga cabaran simulator membawa markah 9. Selesai cabaran akan bergerak automatik ke kuiz, kemudian pemerhatian dan slip pencapaian. Mentol menyala mempunyai sinar lurus berjejari seperti matahari.
